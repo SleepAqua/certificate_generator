@@ -1,0 +1,8 @@
+{
+    "host": "smtp.exmail.qq.com",
+    "username": "",
+    "password": "",
+    "from_": "Louis Tian",
+    "title": "Certificate",
+    "text": "Dear {}:\n\n\nPlease check attached your certificate."
+}

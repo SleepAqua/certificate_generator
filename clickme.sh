@@ -1,0 +1,4 @@
+NAME_ROW=12
+NUM_ROW=2
+
+python main.py $NAME_ROW $NUM_ROW
